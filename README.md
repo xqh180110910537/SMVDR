@@ -9,13 +9,12 @@ For **four-view inference**, each of the four images must be pre-processed using
 
 
 ```bibtex
-@inproceedings{luo2025,
+@inproceedings{luo2025like,
   title={Like an Ophthalmologist: Dynamic Selection Driven Multi-View Learning for Diabetic Retinopathy Grading},
   author={Luo, Xiaoling and Xu, Qihao and Wu, Huisi and Liu, Chengliang and Lai, Zhihui and Shen, Linlin},
   booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
   volume={39},
   number={18},
-  pages={19224-19232},
+  pages={19224--19232},
   year={2025}
 }
-
