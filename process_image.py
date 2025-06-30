@@ -38,8 +38,6 @@ def crop_image_from_gray(img, tol=7):
             img = np.stack([img1, img2, img3], axis=-1)
         return img
 
-
-# 每张眼底图像转化
 def preprocess_image(image, sigmaX=15):
     # image preprocessing
     image = cv2.imread(image)
